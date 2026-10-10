@@ -1,0 +1,12 @@
+{
+  "name": "JogaOffline — Jogos sem Internet",
+  "short_name": "JogaOffline",
+  "description": "Jogos gratuitos que podes jogar offline.",
+  "lang": "pt-PT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": []
+}
